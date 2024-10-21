@@ -39,22 +39,15 @@ Make sure you have the following installed:
    git clone https://github.com/saijamii/task-manager.git
    ```
 
-2. **Navigate to the project directory:**
-
-   ```bash
-    cd task-management-app 
-   ```
-
     
 
-
-3. **Install the dependencies:**
+2. **Install the dependencies:**
 
     ```bash
     npm install
     ```
 
-4. **Run the development server:**
+3. **Run the development server:**
    
     ```bash
     npm run dev
