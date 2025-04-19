@@ -3,15 +3,15 @@ import React from "react";
 const Header = () => {
   return (
     <header style={headerStyle}>
-      <h1>Task Manager Test</h1>
+      <h1>Task Manager</h1>
     </header>
   );
 };
 
 const headerStyle = {
-  padding: '1px 20px',
-  textAlign: 'center',
-  width:"100%",
+  padding: "1px 20px",
+  textAlign: "center",
+  width: "100%",
 };
 
 export default Header;
